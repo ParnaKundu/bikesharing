@@ -6,7 +6,7 @@ The purpose of this project is to analyze the bike sharing data from New York Ci
 
 ## Results
 
-[Click here](https://public.tableau.com/app/profile/parna.kundu/viz/bikesharing_16740600105470/BikesharingOverview?publish=yes) to see the complete results of the New York City Bike Sharing data Analysis. 
+[![Click here](Images/Click%20Me.png)](https://public.tableau.com/app/profile/parna.kundu/viz/bikesharing_16740600105470/BikesharingOverview?publish=yes) to see the complete results of the New York City Bike Sharing data Analysis. 
 
 A few of the visualization are described as follows :-
 
